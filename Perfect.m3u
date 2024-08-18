@@ -90,6 +90,9 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451573.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="English", AXN
+http://31.42.187.37:25461/watchpad13158/1234/17
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix.svg/1200px-%26flix.svg.png" group-title="English", &Flix HD
 http://opplex.tv:8080/live/15155419/16175512/109962.m3u8
 
@@ -140,6 +143,9 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png" group-title="English", TBS
 http://143.244.60.30/TBS/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Warner_Bros._2023_%28Alt%2C_with_wordmark%29.svg/1200px-Warner_Bros._2023_%28Alt%2C_with_wordmark%29.svg.png" group-title="English", Warner Bros
+http://31.42.187.37:25461/watchpad13158/1234/17
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
 http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
