@@ -145,7 +145,7 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
 http://143.244.60.30/TBS/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Warner_Bros._2023_%28Alt%2C_with_wordmark%29.svg/1200px-Warner_Bros._2023_%28Alt%2C_with_wordmark%29.svg.png" group-title="English", Warner Bros
-http://31.42.187.37:25461/watchpad13158/1234/17
+http://31.42.187.37:25461/watchpad13158/1234/104
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
 http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
