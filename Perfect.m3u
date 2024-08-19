@@ -105,6 +105,9 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="English", AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QMJvL3XL/BBC-America-logo-2021-svg.png" group-title="English", BBC America
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", CineLife 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
 
@@ -431,9 +434,6 @@ https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/800px-BBC_Two_logo_2021.svg.png" group-title="Documentory", BBC TWO 
 http://41.205.93.154/BBCTWO/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QMJvL3XL/BBC-America-logo-2021-svg.png" group-title="Documentory", BBC America
-https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Documentory", Discovery Channel
 https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
