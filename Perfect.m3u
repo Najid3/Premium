@@ -180,6 +180,9 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/907jksK9/Colors-Bangla-HD-prelaunch-2016.png" group-title="Indian Bangla", Colors Bangla HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451288.ts
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Indian Bangla", Colors Bangla Cinema 
+http://14.102.123.50:5001/live/1657.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1zB7KPRt/Background-Eraser-20240628-120812810.png" group-title="Indian Bangla", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
