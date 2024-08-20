@@ -399,6 +399,9 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451595.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0Q06xwPq/pngwing-com.png" group-title="Kids", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
+http://103.151.60.174:553
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png" group-title="World News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
