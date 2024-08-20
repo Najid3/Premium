@@ -213,6 +213,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 #EXTINF: -1 tvg-logo="https://medianet.mv/media/channel/161x0-icon.png" group-title="Indian Cinema", & Picture HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
+#EXTINF: -1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Bflix-Movies-Logo.png" group-title="Indian Cinema", BFLIX
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Indian Cinema", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 
