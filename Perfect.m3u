@@ -352,19 +352,19 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/109993.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png" group-title="Sports", Sky Sports Cricket
-https://ddy1.mizhls.ru:443/ddy1/premium65/tracks-v1a1/mono.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports", Sky Sports Football
-http://176.119.29.52/live.ts?channelId=308&uid=5284&deviceMac=00:1A:79:17:C0:71
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FRMBh5RS/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
-http://opplex.tv:8080/live/15155419/16175512/238475.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports HD
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/5813.ts
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png" group-title="Kids", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -429,17 +429,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="World News", Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/800px-NBC_logo_2022_%28vertical%29.svg.png" group-title="World News", NBC
-https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png" group-title="World News", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zKNWTVp/Background-Eraser-20240628-142041959.png" group-title="World News", Real America Voice
-https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1024px-Sky-news-logo.svg.png" group-title="World News", Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentory", Animal Planet
 https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
