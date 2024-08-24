@@ -199,7 +199,7 @@ http://103.151.60.174:555
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451571.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="Indian Bangla", Sony Aath
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=5284&deviceMac=00:1A:79:17:C0:71
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zGMN5CY5/Background-Eraser-20240628-121933653.png" group-title="Indian Bangla", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
