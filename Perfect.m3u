@@ -31,13 +31,13 @@ https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
-http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=5284&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh", দুরন্ত TV
-https://tv5.hoichoi24.com/1103/tracks-v1a1/mono.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=13106&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
@@ -81,8 +81,7 @@ https://ekdilhai.pro/Bangla_NTV/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladesh", নাগরিক TV
-https://tv5.hoichoi24.com/1113/video.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladesh", নাগরিক http://humsab.xyz/nagorik_bd/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90
@@ -358,13 +357,13 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/109993.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png" group-title="Sports", Sky Sports Cricket
-https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=8069&deviceMac=00:1A:79:4C:90:E3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports", Sky Sports Football
-https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=13106&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FRMBh5RS/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
-https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=8069&deviceMac=00:1A:79:4C:90:E3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports HD
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
@@ -373,7 +372,7 @@ http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 https://ddy6.mizhls.ru:443/ddy6/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
-https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=13106&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png" group-title="Kids", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
