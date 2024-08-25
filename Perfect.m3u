@@ -55,7 +55,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=13106&deviceMac=00:1A:79:00:05
 http://starshare.live:8080/live/127718262420/127744325447/4231.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+https://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
