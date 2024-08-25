@@ -49,7 +49,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png" group-title="Bangladesh", Gazi TV 
-http://lifetvbd.xyz:8080/live/3363696/3363696/1686.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=13106&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Bangladesh", Global TV
 http://starshare.live:8080/live/127718262420/127744325447/4231.ts
