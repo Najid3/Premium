@@ -64,7 +64,7 @@ https://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
-http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8
+http://ekdilhai.pro/BD:MOHONATV/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" group-title="Bangladesh", MY TV 
 https://mytvbangla.com/0.m3u8
@@ -76,7 +76,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", NTV 
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
+https://ekdilhai.pro/Bangla_NTV/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
@@ -100,7 +100,7 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3
 http://31.42.187.37:25461/watchpad13158/1234/17
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1600px-%26flix_HD_Leap_forth.svg.png" group-title="English", &Flix HD
-http://humsab.xyz/IN_FLIX/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="English", &Prive HD
 http://humsab.xyz/IN_PRIVEHD/index.m3u8
@@ -145,7 +145,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 https://humsab.xyz/IN_SPIX/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KvMn94Hp/Star-Movies-HD-Asia.png" group-title="English", Star Movies HD 
-http://ptuf.ridsys.in/riptv/live/stream224/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" group-title="English", Star Movies Select HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
