@@ -100,10 +100,10 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3
 http://31.42.187.37:25461/watchpad13158/1234/17
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1600px-%26flix_HD_Leap_forth.svg.png" group-title="English", &Flix HD
-http://opplex.tv:8080/live/15155419/16175512/109962.m3u8
+http://humsab.xyz/IN_FLIX/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="English", &Prive HD
-http://opplex.tv:8080/live/15155419/16175512/109963.m3u8
+http://humsab.xyz/IN_PRIVEHD/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="English", AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -127,10 +127,10 @@ http://41.205.93.154/HBO/index.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="English", HBO Signature
-http://extraott.com/live/6945574629/7169628753/212519.ts
+http://ekdilhai.pro/US_HBOSIGNATUREHD/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/m2xQ3b8m/pngwing-com.png" group-title="English", Movies Now HD
-http://opplex.tv:8080/live/15155419/16175512/109968.m3u8
+http://humsab.xyz/IN_NOW/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="English", Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -157,7 +157,7 @@ http://143.244.60.30/TBS/index.m3u8
 http://31.42.187.37:25461/watchpad13158/1234/104
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
-http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
+http://humsab.xyz/IN_ZEECAFE/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="India", &tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
