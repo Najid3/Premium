@@ -10,10 +10,10 @@ https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
-http://tv.cloudcdn.me/live.ts?channelId=83&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451574.ts
+http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
@@ -48,11 +48,14 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV
+http://livess.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png" group-title="Bangladesh", Gazi TV 
 http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=13106&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Bangladesh", Global TV
-http://starshare.live:8080/live/127718262420/127744325447/4231.ts
+http://livess.ncare.live/live-orgin/Global-g.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
 https://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
