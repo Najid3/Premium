@@ -28,7 +28,7 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/bv33b9g2/Background-Eraser-20240628-152826227.png" group-title="Bangladesh", Channel I 
-http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=5284&deviceMac=00:1A:79:00:05:A3
