@@ -489,10 +489,13 @@ https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 #EXTINF: -1 tvg-logo="https://producers.wildtv.ca/storage/users/uploads/uploads/WILDTV_BlackLOGO_WildTV-Black.png" group-title="Documentory",Zina Wild 
 http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W1JkLzwx/pngfind-com-tv-logo-png-6391692.png" group-title="Pakistan", HUM World
+http://208.86.19.13:81/508.stream/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1200px-The_Walking_Dead_2010_logo.svg.png" group-title="24/7", The Walking Dead
 https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MrBeanLogo.png" group-title="24/7", Mr Bean 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MrBeanLogo.png" group-title="24/7", Mr Bean
 http://51.159.104.29:8080/mrbean/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="Islam", Peace TV
