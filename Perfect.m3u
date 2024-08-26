@@ -331,7 +331,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 http://41.205.93.154/FOXSPORTS1/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451208.ts
+https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Sports Ten 1 HD 
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
