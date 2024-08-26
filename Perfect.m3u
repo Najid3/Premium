@@ -312,6 +312,9 @@ http://starshare.live:8080/live/127718262420/127744325447/274124.ts
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XNcZ1DQB/cricket-com-au-logo-vector-removebg-preview.png" group-title="Sports", Cricket Australia
+https://bcovlive-a.akamaihd.net:443/beeb8510c28243bda59cf3ab7bfd1e7c/ap-southeast-2/5833133821001/profile_0/chunklist.m3u8
+
 #EXTINF: -1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="Sports", Dubai Sports 2 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
