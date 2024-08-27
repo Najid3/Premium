@@ -261,6 +261,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wvSVYKJ5/Background-Eraser-20240628-124939718.png" group-title="Music", Asia Music
 https://amchls.wns.live/hls/stream.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KY81Z7sn/images-removebg-preview.png" group-title="Music", B4U Music
+https://cdn2.pishow.tv/live/141/master.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/vZ09rRPY/Background-Eraser-20240628-125215048.png" group-title="Music", Mastiii
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
