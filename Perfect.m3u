@@ -31,13 +31,13 @@ https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
-http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=5284&deviceMac=00:1A:79:00:05:A3
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=5284&deviceMac=00:1A:79:02:23:00
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh", দুরন্ত TV
-http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=13106&deviceMac=00:1A:79:00:05:A3
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=13106&deviceMac=00:1A:79:02:23:00
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
@@ -103,7 +103,7 @@ http://31.42.187.37:25461/watchpad13158/1234/17
 http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="English", &Prive HD
-http://humsab.xyz/IN_PRIVEHD/index.m3u8
+http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2933.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="English", AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
@@ -142,7 +142,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
-https://humsab.xyz/IN_SPIX/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:02:23:00
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KvMn94Hp/Star-Movies-HD-Asia.png" group-title="English", Star Movies HD 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5284&deviceMac=00:1A:79:17:C0:71
