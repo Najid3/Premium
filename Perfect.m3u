@@ -303,7 +303,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="Music", 9X Jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 
-#EXTINF: -1 tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Sports", Abu Dhabi Sports 2
+#EXTINF: -1 tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Sports", Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/440px-Abu_Dhabi_Sports_logo_2023.svg.png" group-title="Sports", Abu Dhabi Sports 2
@@ -346,7 +346,7 @@ http://41.205.93.154/FOXSPORTS1/index.m3u8
 https://ddy6.mizhls.ru:443/ddy6/premium369/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
+http://filex.tv:8080/live/shakeelmirza/4110440/247170.ts
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Sports Ten 1 HD 
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
@@ -379,19 +379,19 @@ http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=8069&deviceMac=00:1A:79:4C:90:E3
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports", Sky Sports Football
-http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=13106&deviceMac=00:1A:79:00:05:A3
+http://opplex.tv:8080/live/15155419/16175512/346241.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FRMBh5RS/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports HD
-http://103.151.60.174/manikvai@hoichoi24.com-t-sports
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports", Ten Sports HD
 https://ddy6.mizhls.ru:443/ddy6/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
-http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=13106&deviceMac=00:1A:79:00:05:A3
+http://opplex.tv:8080/live/15155419/16175512/347333.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png" group-title="Kids", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
