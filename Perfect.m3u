@@ -316,10 +316,10 @@ https://ddy1.mizhls.ru/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://ol
 http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
-http://starshare.live:8080/live/127718262420/127744325447/138714.ts
+http://xtream-ie.com:80/live/mo3ad6612/mo3ad6612/5.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/640px-Logo_beIN_SPORTS_3.png" group-title="Sports", Bein Sports 3
-http://starshare.live:8080/live/127718262420/127744325447/274124.ts
+http://xtream-ie.com/live/mo3ad6612/mo3ad6612/9.ts
 
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -364,7 +364,7 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451614.ts
 http://humsab.xyz/S_Ten5/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2756.ts
+http://opplex.tv:8080/live/15155419/16175512/167575.m3u8
 
 #EXTINF: -1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports", Star Sports 2 HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451272.ts
@@ -503,9 +503,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.png" group-title="Documentory", Trvl Channel 
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-
-#EXTINF: -1 tvg-logo="https://producers.wildtv.ca/storage/users/uploads/uploads/WILDTV_BlackLOGO_WildTV-Black.png" group-title="Documentory",Zina Wild 
-http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W1JkLzwx/pngfind-com-tv-logo-png-6391692.png" group-title="Pakistan", HUM World
 http://208.86.19.13:81/508.stream/index.m3u8
