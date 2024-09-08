@@ -133,7 +133,7 @@ http://ekdilhai.pro/US_HBOSIGNATUREHD/index.m3u8
 http://opplex.tv:8080/live/15155419/16175512/109965.m3u8
 
 #EXTINF: -1 #EXTINF: -1 tvg-logo="https://i.postimg.cc/m2xQ3b8m/pngwing-com.png" group-title="English", Movies Now HD
-http://humsab.xyz/IN_NOW/index.m3u8
+http://opplex.tv:8080/live/15155419/16175512/66271.ts
 
 #EXTINF: -1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="English", Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -163,7 +163,7 @@ http://143.244.60.30/TBS/index.m3u8
 http://31.42.187.37:25461/watchpad13158/1234/104
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
-http://humsab.xyz/IN_ZEECAFE/index.m3u8
+http://opplex.tv:8080/live/15155419/16175512/66287.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="India", &tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
