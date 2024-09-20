@@ -322,7 +322,7 @@ https://port.denver1769.in/Share7.m3u8?id=2494|User-Agent=Denver1769
 http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
-http://xtream-ie.com:80/live/mo3ad6612/mo3ad6612/5.ts
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -352,7 +352,7 @@ http://41.205.93.154/FOXSPORTS1/index.m3u8
 https://ddy6.mizhls.ru:443/ddy6/premium369/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
-http://filex.tv:8080/live/shakeelmirza/4110440/247170.ts
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Sports Ten 1 HD 
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
