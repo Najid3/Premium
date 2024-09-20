@@ -193,7 +193,7 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Indian Bangla", Colors Bangla Cinema 
-http://14.102.123.50:5001/live/1657.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1zB7KPRt/Background-Eraser-20240628-120812810.png" group-title="Indian Bangla", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -203,6 +203,9 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zBnQRWLs/Star-Jalsha-HD-with-slogan-2011.png" group-title="Indian Bangla", Star Jalsha HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JXYX4GF/Jalsha-Movies-HD-logo-2013-present.png" group-title="Indian Bangla", Jalsha Movies
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3JXYX4GF/Jalsha-Movies-HD-logo-2013-present.png" group-title="Indian Bangla", Jalsha Movies HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451571.ts
@@ -434,9 +437,6 @@ http://14.102.123.50:5001/live/1341.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0Q06xwPq/pngwing-com.png" group-title="Kids", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
-http://103.151.60.174:553
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png" group-title="World News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
