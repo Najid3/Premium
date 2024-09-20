@@ -324,11 +324,11 @@ http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
 http://xtream-ie.com:80/live/mo3ad6612/mo3ad6612/5.ts
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/640px-Logo_beIN_SPORTS_3.png" group-title="Sports", Bein Sports 3
-http://xtream-ie.com/live/mo3ad6612/mo3ad6612/9.ts
-
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Cricbuzz_Logo.svg/800px-Cricbuzz_Logo.svg.png" group-title="Sports", Cricbuzz 1
+https://ddy5.mizhls.ru:443/ddy5/premium283/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" group-title="Sports", Dubai Sports
 https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
@@ -376,7 +376,7 @@ http://opplex.tv:8080/live/15155419/16175512/167575.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451272.ts
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="Sports", Star Sports Select 1 HD 
-http://xtv.ooo:8080/live/shoukatali/1199292900/109993.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451471.ts
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" group-title="Sports", Star Sports Select 2 HD
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
