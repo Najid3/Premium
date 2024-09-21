@@ -10,10 +10,10 @@ https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
-http://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
+http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
-http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
