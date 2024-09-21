@@ -15,25 +15,40 @@ https://medialive.akash-go.com/out/v1/4a5545d79c7a47ebb451eac8db300226/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eC5Dk3v3jizE1TUTTWgrCg", "kid": "W9Rn2pR3Q0-Vhkak9o2KqA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
 
-#EXTINF:-1 tvg-id="akash4" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png" group-title="AkashGO", Channel 24 HD
+#EXTINF:-1 tvg-id="akash4" tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="AkashGO", Channel 24 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png" group-title="AkashGO", Independent TV
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="AkashGO", Ekattor HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BN4RMH2yC-sc3Cx27uvsvw", "kid": "cWpiPR62SFWUKae67k3Dig"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
+
+#EXTINF:-1 tvg-id="akash6" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png" group-title="AkashGO", Independent TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
 
-#EXTINF:-1 tvg-id="akash6" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="AkashGO", Jamuna TV
+#EXTINF:-1 tvg-id="akash7" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="AkashGO", Jamuna TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DDW6f5qnwpHRKRLnPWyRaA", "kid": "4ASamcLcTzCaI1-ozeQQyw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 
-#EXTINF:-1 tvg-id="akash3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="AkashGO", Ekattor HD
+#EXTINF:-1 tvg-id="akash8" tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="AkashGO", NTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BN4RMH2yC-sc3Cx27uvsvw", "kid": "cWpiPR62SFWUKae67k3Dig"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_WwC1LxcXpK-I0we957xzg", "kid": "vo5OKyXrRD6wfN3ROokPQQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
+
+#EXTINF:-1 tvg-id="akash9" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png" group-title="AkashGO", RTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
+
+#EXTINF:-1 tvg-id="akash10" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="AkashGO", Somoy TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xTQFNRnGddMTkwGHhcdp8w", "kid": "rYqF0OEDQtOazuocjo8jCw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd
 
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="AkashGO", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,25 +60,10 @@ https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
 
-#EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="AkashGO", NTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_WwC1LxcXpK-I0we957xzg", "kid": "vo5OKyXrRD6wfN3ROokPQQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
-
-#EXTINF:-1 tvg-id="akash17" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="AkashGO", Somoy TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xTQFNRnGddMTkwGHhcdp8w", "kid": "rYqF0OEDQtOazuocjo8jCw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd
-
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="AkashGO", ZEE BANGLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJl4_10nGv6Bagovznpdeg", "kid": "bMqG69EVR2i71kGN8QHQyg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
-
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png" group-title="AkashGO", RTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
 
 #EXTINF:-1 tvg-id="akash20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png" group-title="AkashGO", Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
