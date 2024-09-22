@@ -148,10 +148,10 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:02:23:00
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KvMn94Hp/Star-Movies-HD-Asia.png" group-title="English", Star Movies HD 
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5284&deviceMac=00:1A:79:17:C0:71
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" group-title="English", Star Movies Select HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
