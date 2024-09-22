@@ -15,12 +15,12 @@ https://medialive.akash-go.com/out/v1/4a5545d79c7a47ebb451eac8db300226/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eC5Dk3v3jizE1TUTTWgrCg", "kid": "W9Rn2pR3Q0-Vhkak9o2KqA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
 
-#EXTINF:-1 tvg-id="akash4" tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="AkashGO", Channel 24 HD
+#EXTINF:-1 tvg-id="akash4" tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="AkashGO", Channel 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="AkashGO", Ekattor HD
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="AkashGO", Ekattor
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BN4RMH2yC-sc3Cx27uvsvw", "kid": "cWpiPR62SFWUKae67k3Dig"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
@@ -40,7 +40,7 @@ https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_WwC1LxcXpK-I0we957xzg", "kid": "vo5OKyXrRD6wfN3ROokPQQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
 
-#EXTINF:-1 tvg-id="akash9" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png" group-title="AkashGO", RTV HD
+#EXTINF:-1 tvg-id="akash9" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png" group-title="AkashGO", RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
@@ -65,7 +65,7 @@ https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BaUU8bZ0iZN2J7HYrlKbTQ", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
 
-#EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="AkashGO", Zee HD
+#EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="AkashGO", Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_o4ZvaVIMjaLkYOKdPBGlA", "kid": "kVC3wacDQCa-_AzpidbtaQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/410a6931d4e047ffb964cc06eb04e16f/index.mpd
@@ -95,7 +95,7 @@ https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CL-GQSU1oYbi75-WLU_Yhw", "kid": "nkWqTarFQfC44yVFyLOFWg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/18d00c76943d4c62a98ccc36fb36261e/index.mpd
 
-#EXTINF:-1 tvg-id="akash20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png" group-title="AkashGO", Cineplex HD
+#EXTINF:-1 tvg-id="akash20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png" group-title="AkashGO", Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I3RIhdPj12NGz2vYBrEtVQ", "kid": "9HSB9KJoSXCLiBQbJ3SPXw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
@@ -232,7 +232,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="English", Warner Bros HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="English", WB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cba822d983af4339901003e4f741a612:e0d2b9b74ef13dad35068a8b8ac9b3cf
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
