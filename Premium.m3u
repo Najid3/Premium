@@ -75,7 +75,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1727400693:KeyName=prod_linear:Signature=iIKQBOqr-nk6tfjxrwlrWKenyPWL-Okrf40llx3EO4Po5JHQ9MVsH2Ed-dzBwJ6rPyYNBe09yrPLTLGKdX5HDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aat
+#EXTINF:-1 group-title="Toffee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aath
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1727400693:KeyName=prod_linear:Signature=iIKQBOqr-nk6tfjxrwlrWKenyPWL-Okrf40llx3EO4Po5JHQ9MVsH2Ed-dzBwJ6rPyYNBe09yrPLTLGKdX5HDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
