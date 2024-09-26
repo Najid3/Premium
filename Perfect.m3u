@@ -264,13 +264,13 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Indian Cinema", Zee Action
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Anmol Cinema
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Indian Cinema", Zee Anmol Cinema
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Anmol Cinema 2
+#EXTINF: -1 tvg-logo="https://iili.io/dLDY3Ab.png" group-title="Indian Cinema", Zee Anmol Cinema 2
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Bollywood
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/6QWJcgtm/images-removebg-preview.png" group-title="Indian Cinema", Zee Bollywood
 https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
