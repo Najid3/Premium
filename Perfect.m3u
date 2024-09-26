@@ -97,10 +97,10 @@ http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@somoynews360
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1600px-%26flix_HD_Leap_forth.svg.png" group-title="English", &Flix HD
-http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5284&deviceMac=00:1A:79:17:C0:71
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="English", &Prive HD
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2933.ts
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="English", AXN
 http://128.0.104.44:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144831.ts
@@ -163,7 +163,7 @@ http://143.244.60.30/TBS/index.m3u8
 http://31.42.187.37:25461/watchpad13158/1234/104
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
-http://opplex.tv:8080/live/15155419/16175512/66287.ts
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="India", &tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
@@ -222,8 +222,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WbczMPdg/Background-Eraser-20240628-122320463.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-#EXTINF: -1 tvg-logo="https://medianet.mv/media/channel/161x0-icon.png" group-title="Indian Cinema", & Picture HD
+#EXTINF: -1 tvg-logo="https://medianet.mv/media/channel/161x0-icon.png" group-title="Indian Cinema", &Picture HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" group-title="Indian Cinema", &Xplore HD
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Bflix-Movies-Logo.png" group-title="Indian Cinema", BFLIX
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
@@ -257,6 +260,18 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/44wsV8nY/1722424854434.png" group-title="Indian Cinema", The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Indian Cinema", Zee Action
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Anmol Cinema
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Anmol Cinema 2
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Bollywood
+https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
