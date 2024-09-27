@@ -342,12 +342,6 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/WpksTHC/Daco-4336822.png" group-title="Sports", Fancode
-https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" group-title="Sports", Dubai Sports
-https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
 #EXTINF: -1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="Sports", Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
@@ -360,11 +354,14 @@ http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1600px-Eurosport_2_Logo_2015.svg.png" group-title="Sports", Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/WpksTHC/Daco-4336822.png" group-title="Sports", Fancode
+https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports", Fox Sports 1
 http://41.205.93.154/FOXSPORTS1/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png" group-title="Sports", Fox Cricket 501
-https://ddy6.mizhls.ru:443/ddy6/premium369/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://mhdtv.co.in/daddy/stream.m3u8?id=369|Referer=https://mhdtv.co.in/
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
@@ -403,13 +400,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=8069&deviceMac=00:1A:79:4C:90
 http://opplex.tv:8080/live/15155419/16175512/346241.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FRMBh5RS/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
-https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://mhdtv.co.in/daddy/stream.m3u8?id=368|Referer=https://mhdtv.co.in/
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports HD
 http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports", Ten Sports HD
-https://ddy6.mizhls.ru:443/ddy6/premium741/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451474.ts
