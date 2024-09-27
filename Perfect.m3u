@@ -154,7 +154,7 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" group-title="English", Star Movies Select HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451519.ts
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png" group-title="English", TBS
 http://143.244.60.30/TBS/index.m3u8
@@ -337,7 +337,7 @@ http://31.42.187.37:25461/live/watchpad13158/1234/328.m3u8
 http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=125427&uid=5284&deviceMac=00:1A:79:17:C0:71
 
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -356,9 +356,6 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/WpksTHC/Daco-4336822.png" group-title="Sports", Fancode
 https://pubads.g.doubleclick.net/ssai/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports", Fox Sports 1
-http://41.205.93.154/FOXSPORTS1/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png" group-title="Sports", Fox Cricket 501
 https://mhdtv.co.in/daddy/stream.m3u8?id=369|Referer=https://mhdtv.co.in/
