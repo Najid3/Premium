@@ -114,11 +114,14 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QMJvL3XL/BBC-America-logo-2021-svg.png" group-title="English", BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", CineLife
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors_infinity_hd_india.webp" group-title="English", Colors Infinity HD
 http://tv.cloudcdn.me/live.ts?channelId=157&uid=5353&deviceMac=00:1A:79:17:D4:65
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Comedy_Central_HD.png" group-title="English", Comedy Central HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/186.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", CineLife
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJfzBg4W/Background-Eraser-20240628-112402143.png" group-title="English", Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -135,14 +138,17 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png" group-title="English", Lifetime
 http://212.102.60.231/LIFETIME/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9MYZpks2/Mn-logo-removebg-preview-1.png" group-title="English", MN+
-http://opplex.tv:8080/live/15155419/16175512/109965.m3u8
-
 #EXTINF: -1 #EXTINF: -1 tvg-logo="https://i.postimg.cc/m2xQ3b8m/pngwing-com.png" group-title="English", Movies Now HD
 http://opplex.tv:8080/live/15155419/16175512/66271.ts
 
 #EXTINF: -1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="English", Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9MYZpks2/Mn-logo-removebg-preview-1.png" group-title="English", MN+
+http://opplex.tv:8080/live/15155419/16175512/109965.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="English", MN+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/191.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzyWqc1J/Logo-Romedy-Now-removebg-preview-1.png" group-title="English", Romedy Now
 http://opplex.tv:8080/live/15155419/16175512/66282.ts
