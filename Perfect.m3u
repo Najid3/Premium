@@ -180,11 +180,14 @@ http://opplex.tv:8080/live/15155419/16175512/109947.m3u8
 #EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="India", SET HD
 http://opplex.tv:8080/live/15155419/16175512/221251.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony Sab HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony SAB HD
 http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXstw0cQ/1722425925623.png" group-title="India", Sony Kal
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXstw0cQ/1722425925623.png" group-title="India", Sony KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png/revision/latest?cb=20221023220705" group-title="India", Sony PAL
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
