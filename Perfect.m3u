@@ -343,7 +343,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png" group-title="Sports", Fox Cricket 501
-https://mhdtv.co.in/daddy/stream.m3u8?id=369|Referer=https://mhdtv.co.in/
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/237513.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
