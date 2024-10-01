@@ -147,7 +147,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9MYZpks2/Mn-logo-removebg-preview-1.png" group-title="English", MN+
 http://opplex.tv:8080/live/15155419/16175512/109965.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="English", MN+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="English", MNX
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/191.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzyWqc1J/Logo-Romedy-Now-removebg-preview-1.png" group-title="English", Romedy Now
