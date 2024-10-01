@@ -114,8 +114,11 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QMJvL3XL/BBC-America-logo-2021-svg.png" group-title="English", BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", CineLife 
+#EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", CineLife
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors_infinity_hd_india.webp" group-title="English", Colors Infinity HD
+http://tv.cloudcdn.me/live.ts?channelId=157&uid=5353&deviceMac=00:1A:79:17:D4:65
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJfzBg4W/Background-Eraser-20240628-112402143.png" group-title="English", Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -244,7 +247,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://opplex.tv:8080/live/15155419/16175512/104191.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wTnFp2j9/Background-Eraser-20240628-123940686.png" group-title="Indian Cinema", Sony Max HD
-https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1200px-Star_Gold_2020.svg.png" group-title="Indian Cinema", Star Gold HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
@@ -424,7 +427,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
-https://colorsscreen.com/live.php?id=1341&extension=.m3u8
+https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0Q06xwPq/pngwing-com.png" group-title="Kids", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
