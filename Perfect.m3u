@@ -132,6 +132,9 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="English", HBO Signature
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png" group-title="English", Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9MYZpks2/Mn-logo-removebg-preview-1.png" group-title="English", MN+
 http://opplex.tv:8080/live/15155419/16175512/109965.m3u8
 
@@ -417,6 +420,12 @@ https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="Kids", Disney
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/478FD8CFD6A5B1CF3A4FA161EB73ADD0739CE06476D9D4DF80E6498D24BADB33/scale?width=600&aspectRatio=1.78&format=webp" group-title="Kids", Disney JR
+http://143.244.60.97/DISNEY_JR/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD
+http://212.102.60.231/DISNEY_XD/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids", Discovery Kids 
 https://od.lk/s/ODRfNzIxOTE5NzJf/Discovery_Kids.m3u8
 
@@ -431,6 +440,9 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/1200px-Nicktoons_2023_Outlined_Logo.png" group-title="Kids", Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids", Nick JR
+http://212.102.60.231/NICK_JR/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
 https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com
@@ -496,7 +508,7 @@ https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentory", National Geographic
-http://45.159.74.13/NationalGeographic/tracks-v1a1/index.m3u8
+http://103.110.110.11:8081/live/NGC/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Documentory", TLC
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
