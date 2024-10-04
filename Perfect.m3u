@@ -307,7 +307,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Sangeet_Bangla_logo_2021_with_slogan.png" group-title="Music", Sangeet Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wvmNv0Jv/1722425793951.png" group-title="Music", Shemaroo
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
@@ -322,7 +322,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ncW52L3r/Background-Eraser-20240628-131317775.png" group-title="Music", 9x Jalwa
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VvKQKXDp/Background-Eraser-20240628-131502664.png" group-title="Music", 9x Tashan 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
