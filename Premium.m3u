@@ -296,3 +296,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", p
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29d389f476fe821be2fa93f48377cf66:a9edff53a726d123acfed56e68d0299e https://aba5sdmaaaaaaaamd2pqhgokntneg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfvez6cbji/out/v1/108bfdad52584b3dac8da45d0b679e7d/cenc.mpd
