@@ -103,7 +103,7 @@ http://tv.cloudcdn.me/live.ts?channelId=49859&uid=14505&deviceMac=00:1A:79:A7:53
 http://tv.cloudcdn.me/live.ts?channelId=170&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="English", AXN
-http://128.0.104.44:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144831.ts
+http://31.42.187.37:25461/watchpad13158/1234/17
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="English", AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
