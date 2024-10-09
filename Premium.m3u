@@ -193,6 +193,18 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
 #EXTINF:-1 group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/350px-CNN.svg.png",CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
