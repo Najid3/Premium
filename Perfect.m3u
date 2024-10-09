@@ -123,6 +123,9 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/186.m3u8
 #EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", CineLife
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="English", Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJfzBg4W/Background-Eraser-20240628-112402143.png" group-title="English", Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
