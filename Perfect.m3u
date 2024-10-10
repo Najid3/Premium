@@ -17,6 +17,9 @@ https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BQPRVST7/Banglavision-svg.png" group-title="Bangladesh", Bangla Vision 
 https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
